@@ -10,4 +10,4 @@ I plan to work alone
 
 ## Do you have any questions of your own?
 
-Currently, no.
+I have no idea where to make the game.
