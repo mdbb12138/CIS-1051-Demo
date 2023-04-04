@@ -2,7 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
-My idea for the final project is the Gomoku game.
+My idea for the final project is the Gomoku game or the mario game if gomoku isn't allowed.
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
